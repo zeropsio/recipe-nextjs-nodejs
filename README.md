@@ -1,8 +1,10 @@
 # Zerops x Next.js - Node.js
 
-Remix is a framework for fast, dynamic web apps with server-side rendering. [Zerops](https://zerops.io) simplifies deployment, offering automatic scaling, optional caching, logging integrations, and easy setup for additional services, letting you focus on development without infrastructure hassles.
+Next.js is a React Framework for fast, dynamic full-stack web apps with both server-side rendering and static site generation. [Zerops](https://zerops.io) simplifies deployment, offering automatic scaling, optional caching, logging integrations, and easy setup for additional services, letting you focus on development without infrastructure hassles.
 
-![remix](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-nextjs.svg)
+This recipe showcases the SSR version, see [zeropsio/recipe-nextjs-static](https://github.com/zeropsio/recipe-nextjs-static) for the static version.
+
+![nextjs](https://github.com/zeropsio/recipe-shared-assets/blob/main/covers/svg/cover-nextjs.svg)
 
 <br/>
 
@@ -15,7 +17,7 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 <br/>
 
 ## Recipe features
-- A Latest version of Next.js 14(App router) SSR running on a load balanced **Zerops Node.js** service.
+- A Latest version of **Next.js 14 SSR** with App Router running on a load balanced **Zerops Node.js** service.
 
 <br/>
 
