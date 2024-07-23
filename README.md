@@ -17,7 +17,7 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 <br/>
 
 ## Recipe features
-- Latest version of **Next.js 14+** with SSG running on a load balanced **Zerops Node.js** service.
+- Latest version of **Next.js 14+** with SSR running on a load balanced **Zerops Node.js** service.
 
 <br/>
 
